@@ -1,0 +1,20 @@
+{
+  "name": "زاد الآخرة",
+  "short_name": "زاد الآخرة",
+  "description": "آيات وأذكار وأدعية ووقفات إيمانية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ed",
+  "theme_color": "#145c45",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
